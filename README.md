@@ -1,2 +1,2 @@
 # testgit
-Pruebes de git
+Pruebas de git
